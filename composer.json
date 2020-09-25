@@ -1,5 +1,5 @@
 {
-    "name": "gerardojbaez/laraplans",
+    "name": "rumantic/laraplans",
     "description": "SaaS style recurring plans for Laravel.",
     "keywords": ["plans", "laravel", "subscriptions", "memberships"],
     "license": "MIT",
@@ -7,8 +7,8 @@
     "require": {
         "php": ">=7.1.3",
         "nesbot/carbon": "~2.0",
-        "illuminate/support": "5.8.*",
-        "illuminate/database": "5.8.*"
+        "illuminate/support": "^7.0.0",
+        "illuminate/database": "^7.0.*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
